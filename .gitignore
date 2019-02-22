@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+analyse/analyse.iml
+analyse/page/page.iml
+analyse/product/product.iml
+analyse/session/session.iml
+analyse/session/src/.DS_Store
+commerce.iml
+commons/commons.iml
+commons/src/.DS_Store
+metastore_db/tmp/
+mock/mock.iml
+mock/src/main/resources/
+mock/src/main/scala/com/.DS_Store
+mock/src/main/scala/com/itstar/mock/.DS_Store
