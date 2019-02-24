@@ -20,5 +20,6 @@ mock/target/
 commerce.iml
 derby.log
 
+
 metastore_db/
 spark-warehouse/
